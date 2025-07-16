@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+"name": "health_points",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "MU Quick Care Clinic", "type": "Quick Care", "location": "Inside Rock Bridge Hy-Vee", "entity": "MU", "uid": 8 }, "geometry": { "type": "Point", "coordinates": [ -92.333604309645267, 38.912059298310943 ] } },
+{ "type": "Feature", "properties": { "name": "South Providence Medical Park", "type": "Medical Building", "location": null, "entity": "MU", "uid": 7 }, "geometry": { "type": "Point", "coordinates": [ -92.33215823672802, 38.900980620797554 ] } },
+{ "type": "Feature", "properties": { "name": "Mizzou Urgent Care", "type": "Urgent Care", "location": "South Providence", "entity": "MU", "uid": 11 }, "geometry": { "type": "Point", "coordinates": [ -92.333752825192178, 38.90754053512282 ] } },
+{ "type": "Feature", "properties": { "name": "NextCare Urgent Care", "type": "Urgent Care", "location": null, "entity": "Private", "uid": 12 }, "geometry": { "type": "Point", "coordinates": [ -92.337243916551841, 38.909520607631727 ] } },
+{ "type": "Feature", "properties": { "name": "MU Quick Care Clinic", "type": "Quick Care", "location": "Inside Broadway Hy-Vee", "entity": "MU", "uid": 9 }, "geometry": { "type": "Point", "coordinates": [ -92.383657355781907, 38.953354521198541 ] } },
+{ "type": "Feature", "properties": { "name": "Fairview General Internal Medicine Clinic", "type": "General Clinic", "location": null, "entity": "MU", "uid": 1 }, "geometry": { "type": "Point", "coordinates": [ -92.38131928708242, 38.953185048647363 ] } },
+{ "type": "Feature", "properties": { "name": "Woodrail Internal Medicine and Pediatrics Clinic", "type": "General Clinic", "location": null, "entity": "MU", "uid": 2 }, "geometry": { "type": "Point", "coordinates": [ -92.355805689150117, 38.907759801409803 ] } },
+{ "type": "Feature", "properties": { "name": "Family Medicine-Keene", "type": "General Clinic", "location": null, "entity": "MU", "uid": 3 }, "geometry": { "type": "Point", "coordinates": [ -92.290841936073335, 38.954749214970455 ] } },
+{ "type": "Feature", "properties": { "name": "Family Medicine-Smiley Lane", "type": "General Clinic", "location": null, "entity": "MU", "uid": 4 }, "geometry": { "type": "Point", "coordinates": [ -92.302693666526849, 38.99312752688359 ] } },
+{ "type": "Feature", "properties": { "name": "Family Medicine-Battle Avenue", "type": "General Clinic", "location": null, "entity": "MU", "uid": 5 }, "geometry": { "type": "Point", "coordinates": [ -92.228328164209287, 38.969511633854815 ] } },
+{ "type": "Feature", "properties": { "name": "University Hospital", "type": "Hospital", "location": null, "entity": "MU", "uid": 6 }, "geometry": { "type": "Point", "coordinates": [ -92.328030298606762, 38.93866348081081 ] } },
+{ "type": "Feature", "properties": { "name": "MU Quick Care Clinic", "type": "Quick Care", "location": "Inside Conley Hy-Vee", "entity": "MU", "uid": 10 }, "geometry": { "type": "Point", "coordinates": [ -92.296401290800176, 38.94980860525142 ] } },
+{ "type": "Feature", "properties": { "name": "Boone Hospital", "type": "Hospital", "location": null, "entity": "BJC", "uid": 14 }, "geometry": { "type": "Point", "coordinates": [ -92.316323471964211, 38.949005310633396 ] } },
+{ "type": "Feature", "properties": { "name": "Boone Health Convenient Care", "type": "Urgent Care", "location": "Inside Parkade Plaza", "entity": "BJC", "uid": 13 }, "geometry": { "type": "Point", "coordinates": [ -92.345400883104006, 38.967120279116209 ] } },
+{ "type": "Feature", "properties": { "name": "Boone Health Primary Care-Nifong", "type": "General Clinic", "location": null, "entity": "BJC", "uid": 15 }, "geometry": { "type": "Point", "coordinates": [ -92.352960424923197, 38.907672013347103 ] } },
+{ "type": "Feature", "properties": { "name": "Columbia Urgent Care", "type": "Urgent Care", "location": null, "entity": "Private", "uid": 16 }, "geometry": { "type": "Point", "coordinates": [ -92.334565281773976, 38.958920860538363 ] } }
+]
+}
